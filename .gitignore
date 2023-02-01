@@ -1,0 +1,5 @@
+.env
+venv
+application.yml
+logs
+SimpleMusicBotCloud.key
